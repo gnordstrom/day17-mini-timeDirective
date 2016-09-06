@@ -1,0 +1,23 @@
+body {
+  background-color: steelblue;
+}
+
+p {
+  color: white;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+}
+
+.clock {
+  border: 5px solid black;
+  width: 75%;
+  margin: auto;
+  color: white;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 30px;
+  padding: 10px;
+  text-align: center;
+}
